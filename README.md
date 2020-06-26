@@ -1,17 +1,59 @@
-# IMPLEMENTAÇÃO DE UM JOGO DE XADREZ EM ECMA SCRIPT
+<p style="text-align: center;"><img src="chess-image.png" width="256"></p>
 
-Passos iniciais da Criação de um Jogo de Xadrez
+# ♟🧩 Chess Game 🧩♟
 
-## LISTA DE IMPLEMENTAÇÕES REALIZADAS
+Desenvolvimento de um jogo de xadrez, utilizando Javascript
 
-**
+<pre>
+    *************************************************************************
+    *        **********        **********        **********        **********
+    *        **********        **********        **********        **********
+    *        **********        **********        **********        **********
+    *************************************************************************
+    **********        **********        **********        **********        *
+    **********        **********        **********        **********        *
+    **********        **********        **********        **********        *
+    *************************************************************************
+    *        **********        **********        **********        **********
+    *        **********        **********        **********        **********
+    *        **********        **********        **********        **********
+    *************************************************************************
+    **********        **********        **********        **********        *
+    **********        **********        **********        **********        *
+    **********        **********        **********        **********        *
+    *************************************************************************
+    *        **********        **********        **********        **********
+    *        **********        **********        **********        **********
+    *        **********        **********        **********        **********
+    *************************************************************************
+    **********        **********        **********        **********        *
+    **********        **********        **********        **********        *
+    **********        **********        **********        **********        *
+    *************************************************************************
+    *        **********        **********        **********        **********
+    *        **********        **********        **********        **********
+    *        **********        **********        **********        **********
+    *************************************************************************
+    **********        **********        **********        **********        *
+    **********        **********        **********        **********        *
+    **********        **********        **********        **********        *
+    *************************************************************************
+</pre>
 
-### LISTA DE IMPLEMENTAÇÕES A SEREM REALIZADAS
+## Lista de Implementações a serem realizadas
 
-** RETORNAR O CÓDIGO DA CASA EM QUE A PEÇA FOI CLICADA
+🔰 Retornar o código da casa em que a peça foi clicada;
 
-** MONTAR UM OBJETO COM AS PEÇAS E AS POSSIBILIDADES ATUAIS DE MOVIMENTO
+🔰 Montar um objeto com as peças e as possibilidades atuais de movimento;
 
-** DESENVOLVER UMA FUNÇÃO QUE RETORNE AS CASAS POSSÍVEIS PARA A PEÇA EM FOCO
+🔰 Desenvolver uma função que retorne as casas possíveis para a peça em foco;
 
-*** EXIBIR NO TABULEIRO AS CASAS POSSÍVEIS PARA A PEÇA EM FOCO
+🔰 Exibir no tabuleiro as casas possíveis para a peça em foco;
+
+🔰 Criar uma seção, ao lado do tabuleiro, para as peças que forem eliminadas;
+
+🔰 Garantir que um jogador realize um movimento apenas quando o outro já o tiver feito, exceto no início;
+
+🔰 Desenvolver a lógica de roque / jogadas especiais;
+
+🔰 Desenvolver a lógica de xeque / xeque-mate;
