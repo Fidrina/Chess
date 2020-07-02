@@ -49,3 +49,7 @@ body {
 .float-left {
   float: left;
 }
+
+div.piece:not(:last-child) {
+  float: right;
+}
