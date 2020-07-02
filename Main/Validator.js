@@ -15,7 +15,7 @@ class Validator {
    * 
    * @return {Boolean}
    */
-  static Limit = function (arg, type) {
+  static Limit = function (arg = {}, type) {
     switch (type) {
       case this.NUMERIC:
         return [1, 2, 3, 4, 5, 6, 7, 8].includes(parseInt(arg));
