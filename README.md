@@ -42,8 +42,6 @@
 
 ## Implementações a serem realizadas
 
-🔰 Retornar o código da casa em que a peça foi clicada;
-
 🔰 Montar um objeto com as peças e as possibilidades atuais de movimento;
 
 🔰 Desenvolver uma função que retorne as casas possíveis para a peça em foco;
