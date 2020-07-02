@@ -1,8 +1,8 @@
+# <p style="text-align: center;"><span>♟</span><span>🧩</span>Chess Game<span>🧩</span><span>♟</span></p>
+
 <p style="text-align: center;"><img src="chess-image.png" width="256"></p>
 
-# ♟🧩 Chess Game 🧩♟
-
-Desenvolvimento de um jogo de xadrez, utilizando Javascript
+<p>Desenvolvimento de um jogo de xadrez, utilizando Javascript</p>
 
 <pre>
     *************************************************************************
@@ -40,7 +40,7 @@ Desenvolvimento de um jogo de xadrez, utilizando Javascript
     *************************************************************************
 </pre>
 
-## Lista de Implementações a serem realizadas
+## Implementações a serem realizadas
 
 🔰 Retornar o código da casa em que a peça foi clicada;
 
