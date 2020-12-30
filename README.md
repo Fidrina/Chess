@@ -1,10 +1,10 @@
-# <p style="text-align: center;"><span>♟</span><span>🧩</span>Chess Game<span>🧩</span><span>♟</span></p>
+<h1><p align="center"><span>♟</span><span>🧩</span>Chess Game<span>🧩</span><span>♟</span></p></h1>
 
-<p style="text-align: center;"><img src="chess-image.png" width="256"></p>
+<p align="center"><img src="chess-image.png" width="256"></p>
 
-<p>Desenvolvimento de um jogo de xadrez, utilizando Javascript</p>
+<h6 align="center">Desenvolvimento de um jogo de xadrez utilizando Javascript</h6>
 
-<pre>
+<pre align="center">
     *************************************************************************
     *        **********        **********        **********        **********
     *        **********        **********        **********        **********
